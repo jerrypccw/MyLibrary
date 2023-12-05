@@ -13,7 +13,7 @@ public struct TestModel: Codable {
     public var locale: String = ""
     
     public init() {
-        accessToken = "ABC"
+        accessToken = "QQQ"
         locale = "v1.0.1"
     }
     

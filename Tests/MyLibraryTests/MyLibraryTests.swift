@@ -10,6 +10,6 @@ final class MyLibraryTests: XCTestCase {
         // https://developer.apple.com/documentation/xctest/defining_test_cases_and_test_methods
         
         let item = TestModel()
-        XCTAssertEqual(item.accessToken, "ABC")
+        XCTAssertEqual(item.accessToken, "QQQ")
     }
 }

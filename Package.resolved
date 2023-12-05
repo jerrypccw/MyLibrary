@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://Jerry3344556@bitbucket.org/Jerry3344556/swiftpackage.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "94a154b44eda07517ab1ba54ad58e788ac58a51f"
+      }
+    }
+  ],
+  "version" : 2
+}
